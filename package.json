@@ -17,7 +17,6 @@
     "time-grunt": "^1.2.1"
   },
   "scripts": {
-    "postinstall": "grunt",
     "test": "grunt test"
   }
 }
